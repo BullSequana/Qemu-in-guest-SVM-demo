@@ -1,0 +1,9 @@
+**/.*.cmd
+**/*.symvers
+**/*.order
+**/*.ko
+**/*.mod
+**/*.o
+demo/user/userapp
+**/*.mod.c
+**/*.patch
